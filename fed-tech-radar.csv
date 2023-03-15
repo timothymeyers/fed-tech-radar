@@ -1,5 +1,5 @@
 name,description,quadrant,ring,isNew,tags,url
-bob,bob,q1,assess,true,,,
-bob,bob,q2,assess,true,,,
-bob,bob,q3,assess,true,,,
-bob,bob,q4,assess,true,,,
+bob,bobd,q1,assess,true,a;b;c,https://hellobob
+bob,bobd,q2,assess,true,,
+bob,bobd,q3,assess,true,,
+bob,bobd,q4,assess,true,,
