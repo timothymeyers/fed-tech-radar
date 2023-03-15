@@ -1,0 +1,13 @@
+﻿name,description,quadrant,ring,isNew,url
+DevSecOps,,Techniques,0 Adopt,,
+Terraform,,Tools,0 Adopt,,
+MLZ,,Tools,0 Adopt,,
+Infrastructure as Code (IaC),,Techniques,0 Adopt,,
+Zero Trust (ZT) Architectures,,Techniques,0 Adopt,,
+x,,Tools,1 Learn,,
+Bicep,,Tools,1 Learn,,
+NoOps,,Tools,1 Learn,,
+x,,Platforms,2 Assess,,
+x,,Languages & Frameworks,3 By Exception,,
+Lift-and-shift migrations,,Techniques,3 By Exception,,
+ARM,,Tools,3 By Exception,,
