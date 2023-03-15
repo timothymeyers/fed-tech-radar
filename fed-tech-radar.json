@@ -1,0 +1,32 @@
+[
+    {
+        "name": "string",
+        "description": "<b>string</b>",
+        "quadrant": "tools",
+        "ring": "adopt",
+        "isNew": true,
+        "tags": [
+          {
+            "name": "string",
+            "color": "string"
+          }
+        ],
+        "url": "https://string"
+      },
+      {
+        "name": "string",
+        "description": "string",
+        "quadrant": "tools",
+        "ring": "trial",
+        "isNew": true,
+        "tags": [
+          {
+            "name": "string",
+            "color": "string"
+          }
+        ],
+        "url": "https://string"
+      }
+
+
+]
