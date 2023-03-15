@@ -2,5 +2,4 @@ name,description,quadrant,ring,isNew,url
 bob,bobd,Digital & App Innovation,adopt,false,"https://hellobob.com"
 bob,bobd,Data & AI,trial,true,""
 bob,bobd,Security & Zero Trust,assess,true,""
-bob,bobd,Platforms,hold,true,""
 yuck,bobd,Platforms,by exception,true,""
