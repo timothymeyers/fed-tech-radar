@@ -11,7 +11,7 @@ x,,Tools,1 Learn,,
 Bicep,,Tools,1 Learn,,
 NoOps,,Tools,1 Learn,,
 Containerizing Workloads,,Techniques,1 Learn,,
-Multi-Cloud Solutions,"<p><strong>Multi-Cloud</strong> is a key technical enabler supporting Goal 1 of the <em><a href=""https://dodcio.defense.gov/Portals/0/Documents/Library/SoftwareModStrat.pdf"">DoD's Software Modernization Strategy</a></em>.</p> <p>This technique is inclusive of <strong>providing solutions that span cloud providers</strong>, leveraging best of breed capabilities in support of the DoD mission, and from <strong>hyperscale to the tactical edge</strong>.</p>",Techniques,1 Learn,TRUE,https://dodcio.defense.gov/Portals/0/Documents/Library/SoftwareModStrat.pdf
+Multi-Cloud Solutions,"<p><strong>Multi-Cloud</strong> is a key technical enabler supporting Goal 1 of the <em><a href=""https://dodcio.defense.gov/Portals/0/Documents/Library/SoftwareModStrat.pdf"">DoD's Software Modernization Strategy</a></em>. This technique is inclusive of <strong>providing solutions that span cloud providers</strong>, leveraging best of breed capabilities in support of the DoD mission, and from <strong>hyperscale to the tactical edge</strong>.</p>",Techniques,1 Learn,TRUE,https://dodcio.defense.gov/Portals/0/Documents/Library/SoftwareModStrat.pdf
 Continuous ATO,,Techniques,1 Learn,,
 Kubernetes (k8s),Inclusive of CNCF Kubernetes & Rancher RKE2 in addition to managed offerings like AKS and ARO.,Platforms,1 Learn,,
 Python,,Languages & Frameworks,1 Learn,,
